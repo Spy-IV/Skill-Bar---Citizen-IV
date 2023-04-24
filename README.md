@@ -31,7 +31,7 @@ else
                     isActive = false
                 else
                     isActive = false
-                    --- FINISHED
+                    -- finished
                 end
             end
         end
