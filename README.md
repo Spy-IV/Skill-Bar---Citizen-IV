@@ -7,7 +7,8 @@ A skillbar for CitizenIV convetred from FiveM
 
 #Example code
 
-`local finished = exports["tgiann-skillbar"]:taskBar(30000)
+```
+local finished = exports["tgiann-skillbar"]:taskBar(30000)
 if not finished then
     isActive = false
 else
@@ -33,5 +34,6 @@ else
             end
         end
     end
-end`
+end
+```
 
